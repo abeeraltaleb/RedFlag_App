@@ -6,10 +6,10 @@ RedFlag: SMS Fraud Detection iOS App
 Meet the incredible squad that breathed life into RedFlag:
 
 ### Abeer Altalib 👩‍💻
-### Shahad 🌟
-### Sara 🚀
-### Sara ✨
-### Noor Alotibi 🌠
+### Shahad Almaghrabi 🌟
+### Sara  Alhaddel 🚀
+### Sara Sulayhim ✨
+### Noor Aljuaid 🌠
 
 ## Technologies and Programming Languages
 
@@ -18,7 +18,6 @@ RedFlag, the SMS Fraud Detection iOS App, harnesses the power of these technolog
 Swift: The star performer, turning iOS app development into a breeze.
 Xcode: Our trusty command center for building, testing, and unleashing the app's potential.
 Core ML: Apple's enchanting machine learning framework, uncovering the hidden secrets of fraudulent messages.
-Git: Safeguarding our code and guiding us with version control magic.
 GitHub: Our virtual stronghold for teamwork, collaboration, and project magnificence.
 
 ## Getting Started
